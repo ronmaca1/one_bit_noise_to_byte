@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:pro",
+    "port": "COM9",
+    "output": "../build",
+    "sketch": "one_bit_noise_to_byte.ino",
+    "configuration": "cpu=8MHzatmega328"
+}
